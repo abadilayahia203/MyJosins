@@ -1,0 +1,128 @@
+{
+    "ads": {
+		"showAds": true,
+
+		"OpenGameLink" : "https://translate.google.com/",
+
+        "SendTraffic" : false,
+
+        "LinkToSendTraffic" : "https://www.google.com",
+
+        "SendTrafficImage" : "https://github.com/YassirXDEV/JsonHost/blob/main/eli-grunewald-orangeplaybutton.png?raw=true",
+
+        "ShowLaterRate" : true,
+
+        "interstitialClickNumList": 4
+        
+    },
+    "info": {
+        "privacy_policy": "A cookie is a small computer file or piece of information that may be stored in your computer's hard drive when you visit our websites. We may use cookies to improve our website’s functionality and in some cases, to provide visitors with a customized online experience. Cookies are widely used and most web browsers are configured initially to accept cookies automatically. You may change your Internet browser settings to prevent your computer from accepting cookies or to notify you when you receive a cookie so that you may decline its acceptance. Please note, however, if you disable cookies, you may not experience optimal performance of our website."
+    },
+    "instruction": [{
+            "description": "Download the mod files. They are usually in the form of JAR or ZIP files Save them.",
+            "img": "https://cdn.pixabay.com/photo/2015/10/30/10/43/help-1013700__340.jpg"
+        }, {
+            "description": " add them to your Minecraft game Select the Forge installation you created and Click on the Mod or Modifications button in the launcher.",
+            "img": "https://cdn.pixabay.com/photo/2015/10/30/10/43/help-1013700__340.jpg"
+        }
+    ],
+    "mods": [{
+            "category": "Animals",
+            "items": [{
+                "thumbTitle" : "Buddies For Baby",
+                "description": "The Buddies for Baby mod adds a few new animals to catch and tame as pets. You’ll find a lot of different lizard types like green anoles and three different types of crested geckos",
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/1.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/1.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/data/HybridAnimalsForMCPE/1/1/Buddies-1.19.2-v2.3.0.jar.zip",
+                    "locked": false
+                }, {
+                    "thumbTitle" : "Animal Tamer",
+                    "description": "Animal Tamer is a mod that allows you to tame nearly every animal in the game. It also adds three options for how your tamed animals behave.",
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/2.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/2.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/data/HybridAnimalsForMCPE/1/2/domesticationinnovation-1.7.0-1.19.4.jar.zip",
+                    "locked": true
+                }, {
+                    "thumbTitle" : "Duckling Mod",
+                    "description": "The Duckling mod is an adorable mod that adds three types of ducks to the game. ",
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/3.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/3.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/data/HybridAnimalsForMCPE/1/3/Buddies-1.19.2-v2.3.0.jar.zip",
+                    "locked": false
+                },{       
+                    "thumbTitle" : "Pehkui Mod",   
+                    "description": "Change the size of entities through modifying scale data.Affect other properties of an entity that are considered as dependant on the size.",           
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/4.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/4.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/data/HybridAnimalsForMCPE/1/4/skiing-1.19.2-1.0.1.jar.zip",
+                    "locked": true
+                }
+            ]
+        }, {
+            "category": "Animals 2",
+            "items": [{
+                "thumbTitle" : "Animal Tamer",
+                "description": "Genetic Animals is a more realistic imagining of how the animals in Minecraft should behave and look like in regards to the biome they spawn in. ",
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/5.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/5.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/data/HybridAnimalsForMCPE/2/1/Animal%2BTamer%2B1.11.3%2B-1.18.2.jar.zip",
+                    "locked": true
+                }, {
+                    "thumbTitle" : "duckling",
+                    "description": "The Duckling mod is an adorable mod that adds three types of ducks to the game. You will see white ducks and mallards spawning mostly in river biomes and if you don’t see them right away you’ll certainly hear them quacking about somewhere!",
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/6.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/6.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/data/HybridAnimalsForMCPE/2/2/duckling-3.0.0-forge.jar.7z",
+                    "locked": true
+                }, {
+                    "thumbTitle" : "Animal Tamer 2",
+                    "description": "Domestication Innovation is a mod that aims to expand on the tamable abilities of animals in the game as well as giving the player the ability to tame otherwise un-tamable animals. ",
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/7.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/7.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/data/HybridAnimalsForMCPE/2/3/Animal%2BTamer%2B1.11.3%2B-1.18.2.jar.zip",
+                    "locked": true
+                },{      
+                    "thumbTitle" : "Sophisticated Wolves",    
+                    "description": "The Sophisticated Wolves mod aims to give wolves, and subsequently tamed dogs, better abilities in the game. It gives them a better sense of their surroundings so they are not completely dependent upon their owner. ",           
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/8.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/8.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/data/HybridAnimalsForMCPE/2/4/duckling-3.0.0-forge.jar.zip",
+                    "locked": true
+                }
+            ]
+        }, {
+            "category": "More Mods",
+            "items": [{
+                "thumbTitle" : "Pehkui Mod",
+                "description": "Change the size of entities through modifying scale data.Affect other properties of an entity that are considered as dependant on the size.",
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/9.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/9.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/staticMods/1/skiing-1.19.2-1.0.1.jar.zip",
+                    "locked": true
+                }, {
+                    "thumbTitle" : "Just A Raft Mod",
+                    "description": "Just A Raft Mod (1.20.1, 1.19.4) adds Rafts to the game. You can crafts from any 3 logs and some string, these floaty pieces of wood are a great addition to your Minecraft waters. There are currently 6 types of rafts one type for each log.",
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/10.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/10.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/staticMods/2/productivevillagers_forge-1.0.9.jar.zip",
+                    "locked": true
+                }, {
+                    "thumbTitle" : "skiing in minecraft",
+                    "description": "Skis, Snowboards and Sleds (of all new wood 9 types)-Ski Sticks (you will much faster when you hold one in your mainhand and offhand)-Snow Shovel (break a 3x3 area of snow at once)-Dyeable Pullovers (to keep you warm)-7 Paintings-Ski Merchant (a villager that sells skis and other items)",
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/11.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/11.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/staticMods/3/Pehkui-Mod-1.16.5.jar.zip",
+                    "locked": true
+                },{   
+                    "thumbTitle" : "Productive Village",    
+                    "description": "The Productive Villagers mod aims to provide players with villagers that have much more useful jobs and abilities to take advantage of when visiting any new or current villagers. There is only one item added with this mod called the workstation depot that is only crafted using any of the same two wood slabs",              
+                    "thumb": "https://github.com/abadilayahia203/mydata/blob/main/12.jpg?raw=true",
+                    "images": "https://github.com/abadilayahia203/mydata/blob/main/12.jpg?raw=true",
+                    "source": "https://devyahiamodsh.pw/staticMods/4/Just-A-Raft-Mod-Forge-1.12.2.jar.zip",
+                    "locked": true
+                }
+            ]
+        }
+    ]
+
+}
